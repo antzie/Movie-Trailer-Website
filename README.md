@@ -14,7 +14,7 @@ Go to the repository:
 ```
 $ cd path/Movie-Trailer-Website
 ```
-Then run entertainment_centre.py from within the repository: \'n\
+Then run entertainment_centre.py from within the repository: \
 On Windows:
 ```
 $ winpty python entertainment_centre.py
