@@ -31,7 +31,7 @@ thor_ragnarok = media.Movie("Thor: Ragnarok",
                             "https://www.youtube.com/watch?v=ue80QwXMRHg",
                             '92%',
                             'Taika Waititi',
-                            'Chris Hemsworth, Tom Hiddleston, Cate Blanchett',
+                            'Chris Hemsworth, Cate Blanchett',
                             2017
                             )
 
