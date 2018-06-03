@@ -21,3 +21,7 @@ $ winpty python entertainment_centre.py
 ```
 ## License.
 See License MIT for details.
+
+## Acknowledgements
+The file fresh_tomatoes_rev.py is a slightly adjusted version of fresh_tomatoes.py which was provided as part of Udacity's Full Stack Nanodegree. \
+Access the original file here: [GitHub Repository](https://github.com/udacity/ud036_StarterCode)
