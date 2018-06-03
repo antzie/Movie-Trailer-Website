@@ -26,7 +26,7 @@ black_hawk_down = media.Movie("Black Hawk Down",
                               )
 
 thor_ragnarok = media.Movie("Thor: Ragnarok",
-                            "Thor has yet more family problems",
+                            "Thor loses his hammer and has yet more family problems",
                             "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg",
                             "https://www.youtube.com/watch?v=ue80QwXMRHg",
                             '92%',
