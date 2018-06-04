@@ -11,10 +11,9 @@ Go to the repository:
 ```
 $ cd path/Movie-Trailer-Website
 ```
-Then run entertainment_centre.py from within the repository: \
-On Windows:
+Then run entertainment_centre.py from within the repository: 
 ```
-$ winpty python entertainment_centre.py
+$ python entertainment_centre.py
 ```
 ## License.
 See License MIT for details.
