@@ -1,5 +1,7 @@
 # Movie-Trailer-Website
-Creates a static website that contains a list of movies and their trailers. Part of Udacity's Full Stack Nanodegree.
+Creates a static website that contains a list of movies and their trailers. 
+
+Part of Udacity's Full Stack Nanodegree.
 
 ## Installation.
 Clone the GitHub repository.
@@ -19,5 +21,5 @@ $ python entertainment_centre.py
 See License MIT for details.
 
 ## Acknowledgements
-The file fresh_tomatoes_rev.py is a slightly adjusted version of fresh_tomatoes.py which was provided as part of Udacity's Full Stack Nanodegree. \
+The file fresh_tomatoes_rev.py is a *slightly* adjusted version of fresh_tomatoes.py which was provided as part of Udacity's Full Stack Nanodegree. \
 Access the original file here: [GitHub Repository](https://github.com/udacity/ud036_StarterCode)
